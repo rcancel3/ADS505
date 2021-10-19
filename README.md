@@ -21,6 +21,14 @@ Methods Used
 Technologies
 •	Python
 
+
+Source
+Kaggle.com (https://www.kaggle.com/sakshigoyal7/credit-card-customers)
+
+Feature
+19 Predictor Variables, samples = 10.1k
+
+
 Project Description
 This project aims to create an optimal classification model for identifying customers at risk of churning, given some qualitative predictors (age, income, gender) and factual information about a customer’s relationship with the business (time on book credit limit, etc.). 
 
