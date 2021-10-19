@@ -19,7 +19,6 @@ Methods Used
 •	Conclusions / Recommendations
 
 Technologies
-A few examples are:
 •	Python
 
 Project Description
